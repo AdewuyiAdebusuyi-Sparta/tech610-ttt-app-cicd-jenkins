@@ -1142,7 +1142,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
 						<p class="version-stamp">${escapeHtmlAttribute(footerVersionStamp)}</p>
 						<script src="/app.js"></script>
-						<p class="time-stamp">14:02</p>
+						<p class="time-stamp">14:10</p>
 					</body>
 				</html>
 			`);
