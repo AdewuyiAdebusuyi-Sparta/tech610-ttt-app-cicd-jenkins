@@ -1138,10 +1138,11 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 								</section>
 							</div>
 						</div>
-						<p class="page-footer">Copyright © 2026 Sparta Global 11:52AM</p>
+						<p class="page-footer">Copyright © 2026 Sparta Global</p>
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
 						<p class="version-stamp">${escapeHtmlAttribute(footerVersionStamp)}</p>
 						<script src="/app.js"></script>
+						<p class="time-stamp>12:10</p>
 					</body>
 				</html>
 			`);
